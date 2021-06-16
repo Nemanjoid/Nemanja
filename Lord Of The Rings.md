@@ -9,8 +9,9 @@
      height="500"/>
 
 <body>
-<p>synopsis/naslov filma</p>
-<h1>An ancient Ring thought lost for centuries has been found, and through a strange twist of fate has been given to a small Hobbit named Frodo. When Gandalf discovers the Ring is in fact the One Ring of the Dark Lord Sauron, Frodo must make an epic quest to the Cracks of Doom in order to destroy it. However, he does not go alone. He is joined by Gandalf, Legolas the elf, Gimli the Dwarf, Aragorn, Boromir, and his three Hobbit friends Merry, Pippin, and Samwise. Through mountains, snow, darkness, forests, rivers and plains, facing evil and danger at every corner the Fellowship of the Ring must go. Their quest to destroy the One Ring is the only hope for the end of the Dark Lords reign.</h1>
+<h1>Synopsis</h1>
+<p> An ancient Ring thought lost for centuries has been found, and through a strange twist of fate has been given to a small Hobbit named Frodo. When Gandalf discovers the Ring is in fact the One Ring of the Dark Lord Sauron, Frodo must make an epic quest to the Cracks of Doom in order to destroy it. However, he does not go alone. He is joined by Gandalf, Legolas the elf, Gimli the Dwarf, Aragorn, Boromir, and his three Hobbit friends Merry, Pippin, and Samwise. Through mountains, snow, darkness, forests, rivers and plains, facing evil and danger at every corner the Fellowship of the Ring must go. Their quest to destroy the One Ring is the only hope for the end of the Dark Lords reign.
+     </p>
   <ul>
     <li>Cate Blanchett as Galadriel</li>
     <li>Viggo Mortensen as Aragorn</li>
@@ -40,7 +41,7 @@
      
 <body>
 
-   <iframe width=420 height=315 src="https://www.youtube.com/embed/-7XAdOVcHxE?rel=0&wmode=transparent&border=0&autoplay=1&iv_load_policy=3"> </iframe>
+   <iframe width=420 height=315 src="https://www.youtube.com/embed/-7XAdOVcHxE?rel=0&wmode=transparent&border=0&autoplay=1&iv_load_policy=3" > </iframe>
    
 
 </body>
