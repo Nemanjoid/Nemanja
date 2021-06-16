@@ -34,6 +34,7 @@
           <td>23.976fps</td>
           <td>2hr 58min</td>
       </tr>
+     </table>
 </body>
      
      
