@@ -17,6 +17,24 @@
     <li>Liv Tyler as Arweb</li>
     <li>Orlando Bloom as Legokas</li>
    </ul>
+<table sty;e="wirth:100%">
+     <tr>
+          <th>File Size</th>
+          <th>Resolution</th>
+          <th>Language</th>
+          <th>Age restriction</th>
+          <th>Framerate</th>
+          <th>Length</th>
+      </tr>
+      <tr>
+          <td>1.41GB</td>
+          <td>1280*720</td>
+          <td>English 2.0</td>
+          <td>PG-13</td>
+          <td>23.976fps</td>
+          <td>2hr 58min</td>
+      </tr>
+     
 </body>
 
 </html>
